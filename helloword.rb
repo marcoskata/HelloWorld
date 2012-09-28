@@ -1,1 +1,3 @@
-puts "Hola mundo"
+
+nombre = gets
+puts "Hola " + nombre 
